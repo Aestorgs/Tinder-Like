@@ -1,0 +1,183 @@
+.h1 {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+input {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+body{
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+nav{
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.offcanvas-header{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.offcanvas-body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.Homeh1{
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin-top: 6em;
+}
+
+.Loginh1{
+    text-align: center;
+    color: white;
+    margin-top: 4em;
+}
+
+.navbar-toggler {
+    border: white solid;
+}
+
+.btn-close {
+    opacity: inherit;
+}
+
+textarea{
+    margin-top: 10px;
+}
+
+.card {
+    width: 18rem;
+    margin: 0 auto;
+    float: none; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+.body{
+    scroll-behavior: auto;
+}
+
+.text-end{
+    margin-top: -3em;
+}
+
+#message{
+    text-align: center;
+}
+
+.list .card{
+    width: 18rem;
+    margin: 10px;
+    float: none; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+.list{
+    max-width: 80rem ;
+    margin-left: 6.3rem ;
+    margin-right: auto ;
+    display: flex ;
+    flex-flow: row wrap ;
+}
+
+.list .text-center{
+    display: block;
+    margin-top: -31px;
+    padding: 16px;
+}
+
+@media screen and (max-width: 1280px) {
+.list {
+    margin-left: 1.4rem;
+}
+}
+
+@media screen and (max-width: 1024px) {
+.list {
+   margin-left: 3.3rem;
+}
+}
+
+@media screen and (max-width: 912px) {
+.list {
+    margin-left: 9.3rem;
+}
+}
+
+@media screen and (max-width: 820px){
+.list {
+    margin-left: 6.3rem;
+}
+}
+
+
+@media screen and (max-width: 768px) {
+.list {
+    margin-left: 4.7rem;
+}
+}
+
+@media screen and (max-width: 540px){
+.list {
+    margin-left: 7.2rem;
+}
+}
+
+@media screen and (max-width: 414px) {
+.list {
+    margin-left: 3.3rem;
+}
+}
+
+@media screen and (max-width: 400px) {
+.list {
+    margin-left: 3rem;
+}
+}
+
+@media screen and (max-width: 393px){
+.list {
+    margin-left: 2.8rem;
+}
+}
+
+@media screen and (max-width: 390px){
+.list {
+    margin-left: 2.6rem;
+}
+}
+
+@media screen and (max-width: 375px){
+.list {
+    margin-left: 2.1rem;
+}
+}
+
+@media screen and (max-width: 360px){
+.list {
+    margin-left: 1.7rem;
+}
+}
+
+@media screen and (max-width: 280px){
+.list .card {
+    width: 15rem;
+}
+
+.list {
+   margin-left: 10px;
+}
+}
